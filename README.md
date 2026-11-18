@@ -16,7 +16,7 @@ networks and server-side scoring, and a browser **UI** (Laptop 2).
 |---|---|---|---|
 | Akshaya M | 50 | Data exploration, preprocessing, feature engineering | `pathsnap/data.py`, `geometry.py`, `labels.py`, `candidates.py`, `features.py`; `scripts/00-02`; `docs/STEP1_SUMMARY.md`, `docs/STEP1B_FEATURES_SUMMARY.md` |
 | Anchita Chhibba | 60 | Model comparison (8 models) | `pathsnap/models.py`, `metrics.py`; `scripts/03*`; `docs/STEP2_SUMMARY.md` |
-| Akash | 9 | Bayesian tuning and HMM route reconstruction | `pathsnap/hmm.py`; `scripts/04, 05`; `docs/STEP3_SUMMARY.md` |
+| Aakash Agarwal | 9 | Bayesian tuning and HMM route reconstruction | `pathsnap/hmm.py`; `scripts/04, 05`; `docs/STEP3_SUMMARY.md` |
 | Aditya Raj | 33 (PES2UG24CS033) | End-to-end pipeline, API, UI, deployment, plots and maps | `pathsnap/pipeline.py`, `api/`, `ui/`, `scripts/06, 07`, this README |
 
 Per-step summaries with the verified numbers are in `docs/`. The deployment and demo checklist is `docs/DEPLOYMENT_CHECKLIST.md`.
