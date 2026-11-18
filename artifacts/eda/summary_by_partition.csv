@@ -1,0 +1,3 @@
+partition,trips,gps_points,gps_median,arcs_median,nan,gaps_gt10s,max_gap,route_breaks,unreliable
+student_test,10,19160,1420.0,13145.0,0,27,210.0,1,0.0006821627084386054
+train,80,208417,1529.0,19526.5,0,590,153064.0,13,0.024907032887874863
