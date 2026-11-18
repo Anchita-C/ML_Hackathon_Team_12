@@ -1,0 +1,6 @@
+model,family,config,cv_macro_f1,cv_macro_f1_std,cv_top1,cv_log_loss,cv_time_s,cv_fold_f1,train_time_s,infer_ms_per_point,test_macro_f1,test_precision,test_recall,test_pos_f1,test_log_loss,test_auc,test_top1,test_route_continuity,test_confusion
+KNN,Instance-based,"Pipeline(steps=[('simpleimputer', SimpleImputer()),
+                ('standardscaler', StandardScaler()),
+                ('kneighborsclassifier',
+                 KNeighborsClassifier(n_jobs=-1, n_neighbors=25,
+                                      weights='distance'))])",0.9314437060797964,0.012085120540263651,0.887246216998086,0.09021915147058643,113.20865559577942,"[0.91913, 0.93093, 0.93087, 0.95377, 0.92252]",0.09453487396240234,2.1937295514506934,0.9293861125820733,0.8709979697017023,0.8742292820566412,0.87261063446945,0.09020447884497111,0.9860563721514973,0.8890918580375783,0.9404699738903394,"[[174059, 2478], [2407, 16731]]"
