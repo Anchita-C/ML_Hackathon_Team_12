@@ -1,2 +1,3 @@
-artifacts/** linguist-generated=true
+artifacts/** linguist-vendored=true
 docs/** linguist-documentation=true
+*.html linguist-vendored=true
